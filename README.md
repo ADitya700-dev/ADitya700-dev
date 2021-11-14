@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADitya700-dev
-- 👀 I’m interested in Python,c and modding works
-- 🌱 I’m currently learning Python and advanced c 
+- 👀 I’m interested in Python,C/C++ and modding works using LUA
+- 🌱 I’m currently learning Python and advanced C/C++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my email
 
